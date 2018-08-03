@@ -1,0 +1,9 @@
+﻿  MyDirectx9.cpp
+d:\mydocument\document\vssaves\directx9\maze\maze\mydirectx9.cpp(317): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\mydocument\document\vssaves\directx9\maze\maze\mydirectx9.cpp(453): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\MyDocument\Document\VSSaves\Directx9\Maze\Debug\Maze.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Maze.vcxproj -> D:\MyDocument\Document\VSSaves\Directx9\Maze\Debug\Maze.exe
+  Maze.vcxproj -> D:\MyDocument\Document\VSSaves\Directx9\Maze\Debug\Maze.pdb (Partial PDB)
